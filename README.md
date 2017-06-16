@@ -1,4 +1,9 @@
 # PRESTO
-Standalone PC version of PRESTO tool
+Standalone PC version of PRESTO tool (PC only)
 
-In Alpha testing to see how Github repository works
+PRESTO manuscript in revision.
+
+To install, first install Matlab Runtime, found here:  https://www.mathworks.com/products/compiler/mcr.html
+Then, download PRESTO_Installer.exe and install.
+
+Test data sets (HMDP_LPS.xls and HMDP_Baseline.xls, adapted from GSE38705) are included. The annotations at the top of these files are for example only.

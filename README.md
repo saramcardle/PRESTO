@@ -1,5 +1,5 @@
 # PRESTO
-Standalone PC version of PRESTO tool (PC only)
+Standalone version of PRESTO tool (PC and Mac)
 
 PRESTO manuscript in revision.
 

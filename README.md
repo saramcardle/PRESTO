@@ -3,7 +3,7 @@ Standalone version of PRESTO tool (PC and Mac)
 
 PRESTO manuscript in revision.
 
-Latest version is 1.1. This includes DBScan, better control of the scatter plot, and minor bug fixes.
+Latest version is 1.1. This includes DBScan, save and load a session, better control of the scatter plot, and minor bug fixes.
 
 Stand-alone PRESTO requires Matlab Runtime, found here:  https://www.mathworks.com/products/compiler/mcr.html
 Download PRESTOv1.1.exe and install the application.
